@@ -1,6 +1,8 @@
 #ifndef STRINGS_H
 #define STRINGS_H
 
-void strings();
+int string_length(char *str);
+
+char* string_reverse_fr(char* str);
 
 #endif

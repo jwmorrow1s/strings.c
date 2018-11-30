@@ -1,17 +1,22 @@
 # Strings
-This is sample text for a project. You should probably replace this, so that it's not embarassing when someone looks at your Project Page.
+This is an exercise to test two functions:
+  int string_length(char \*)
+  char * string_reverse(char \*)
+
+string_length will return the size of a string as an int.
+string_reverse will reverse the characters of a string and return it. It requires heap allocation to work, so it must be freed. Hence string_reverse_fr().
 
 ## Installation
 
-Here is where you put a description of how  to install your project
+No installation required. You will need the gcc compiler as well as make to run it, though.
 
 ## Usage
 
-Here is where you describe how to use your application.
+```run make``` to see the tests pass.
 
 ## Contributing
 
- Here is where you describe if and how you would like others to contribute. As well as your policy on commits and merge requests. 
+Criticism is welcome. I will not be taking merge requests. This was an exercise only.
 
 ## License
 
