@@ -1,7 +1,7 @@
 # Strings
 This is an exercise to test two functions:
-  int string_length(char \*)
-  char * string_reverse(char \*)
+<p>int string_length(char \*)</p>
+<p>char * string_reverse(char \*)</p>
 
 string_length will return the size of a string as an int.
 string_reverse will reverse the characters of a string and return it. It requires heap allocation to work, so it must be freed. Hence string_reverse_fr().
@@ -12,7 +12,7 @@ No installation required. You will need the gcc compiler as well as make to run 
 
 ## Usage
 
-```run make``` to see the tests pass.
+```make run``` to see the tests pass.
 
 ## Contributing
 
